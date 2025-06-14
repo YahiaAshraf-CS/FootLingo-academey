@@ -672,7 +672,7 @@ footer{
     width: auto;
     height: auto;
     padding: 20px;
-    margin: 0;
+    margin: 0px;
     background-image: url('footlingo.png'),linear-gradient(to bottom,#c8cbce, rgb(24, 28, 24));
     background-size: contain; 
     background-position: center;
@@ -688,6 +688,7 @@ footer h1{
     text-decoration: underline;
     color: #ffffff;
     text-shadow: #8a7979 5px 5px 3px;
+    margin: 20px;
 }
 footer p{
     color: #ffffff;
@@ -699,6 +700,7 @@ footer p{
     border-radius: 29px;
     margin-top: 40px;
     text-align: center;
+    text-shadow: #8a7979 5px 5px 3px;
 
 }
 footer a{
@@ -706,6 +708,7 @@ footer a{
     text-decoration: var(--text);
     font-size: larger;
     font-weight: bolder;
+    text-shadow: #8a7979 3px 3px 3px;
 }
 footer i{
     color: #ffffff;
