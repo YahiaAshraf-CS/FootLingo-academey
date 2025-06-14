@@ -672,7 +672,7 @@ footer{
     width: auto;
     height: auto;
     padding: 20px;
-    margin: 0px;
+    
     background-image: url('footlingo.png'),linear-gradient(to bottom,#c8cbce, rgb(24, 28, 24));
     background-size: contain; 
     background-position: center;
